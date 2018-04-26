@@ -1,0 +1,118 @@
+﻿Online Game Retailer FAQs
+
+
+1. What ways do you support payment?
+1. You can pay using a credit or debit card. You can also use your GameLink points to pay for items.
+1. Can I pre-order games on the site?
+1. Yes, you can definitely pre-order games on our site. Some games also order pre-order bonuses and discounts.
+1. Can I get a refund for a game I didn’t like or wasn’t able to run on my system?
+1. Yes, you can get a refund for a game if you apply for it within 15 days of purchase. Please refrain from misusing this feature.
+1. How do I access the games after purchasing?
+1. After purchasing a game on the site, you will need to download and install the GameLink client. The game can then be downloaded and installed from within the client.
+1. Do you offer indie games on your site?
+1. Yes, we have an extensive library of Indie games and also run special events to support indie developers.
+1. Do you also offer DRM free games?
+1. Yes, we do have DRM free games on offer.
+1. Do you have games categorised by genres?
+1. Yes, we have a massive library of games categorized under 15 different genres.
+1. Do you support multiplayer?
+1. Yes, we do support multiplayer for a larger number of games.
+1. Can I setup my own multiplayer server?
+1. Yes, some games allow you to set up your own local server.
+1. Do you have your own server?
+1. Yes, we have our own server for account verification and support.
+1. Do you have servers by game developers?
+1. Yes, game developers maintain their own servers.
+1. Do you have an achievement system?
+1. Yes, we have an achievement system which allows you to earn reward points.
+1. Can I use my achievements for rewards?
+1. Yes, achievements translate into reward points that you can use in the store to make purchases.
+1. Can I invite my friends to play games?
+1. Yes, you can play over LAN or by connecting to a common remote server.
+1. Can I share my games with my friends?
+1. Some games allow installation on multiple systems but it varies from game to game.
+1. Can I setup a LAN party with people that do not have the games?
+1. No, all participants in a LAN party need to have the game downloaded and installed.
+1. How well is the game tested?
+1. Each game is rigorously tested by our team of quality assurance engineers before it becomes available on the store.
+1. If I have a physical copy of a game can I link it with my account?
+1. Yes, it is possible to link games purchased elsewhere and installed on your system. Our client automatically detects them.
+1. How many people can share an account?
+1. Unfortunately we do not allow account sharing.
+1. How many systems can I link simultaneously with my account?
+1. You can link upto 3 systems with a single account.
+1. Can I play multiple games simultaneously?
+1. No, you can not play multiple games simultaneously as it creates conflicts in server requests and can lead to unexpected crashes.
+1. Can I play games even when I am not connected to the internet?
+1. Some games need a constant connection to their servers.This info will be displayed on the game’s purchase page.
+1. Are all the games region free?
+1. No, some games are locked to a region and are only available in certain countries. This is explicitly specified on the game’s purchase page.
+1. Can I play games from a different country?
+1. Yes, it is possible to play games in different countries provided they have a approved rating and adhere to local laws.
+1. Do I need to setup my system in a specific manner to play games?
+1. Yes, you may sometimes be required to download certain language packs but nothing more than that.
+1. Can I edit maps or levels for games?
+1. Some games do provide level editors and content editors. They may require a separate purchase as expansion packs in some cases.
+1. Do you allow mods for games?
+1. Although we do allow modding of games for personal offline use, modded versions are not allowed on our service.
+1. What are the minimum system requirements to run the game client?
+1. The minimum requirements for the game client are:
+      1. Intel Pentium Core2 Duo processor
+      2. 256 MB graphic memory
+      3. 1 GB system RAM
+      4. 300 MB disk space
+      5. Windows 7, 8 or 10
+1. Do I need to keep the client running in order to play games?
+1. Yes, the client must be kept running in the background while playing games.
+1. Can I play games without the client?
+1. No, games purchased on GameLink can only be downloaded and played through the official client.
+1. Can I play games that are in a different language?
+1. Yes, you can play games in any of the languages available in the store.
+1. Do you have a service that allows to change the game language without changing the system language or region?
+1. It depends on a specific game. Some games require your to be connected to the internet for translation while some require installation of internal language packs available from the publisher.
+1. Are there community translations available for games in a different language?
+1. No, we do not support community translations.
+1. Can I migrate my achievements to a different account?
+1. Yes, but you would need to raise a ticket with on our support page.
+1. If I delete my account can I keep my games?
+1. If the games are hosted on our servers, you would require a new account to play, For games hosted on any other server or offline games you can play even after deleting your account.
+1. What happens when I get banned?
+1. Upon getting banned from your account, you will have 30 days to download all your games after which your account will be removed permanently.
+1. Do you have a chat service available for games?
+1. Some games have an in-game chat while some don’t.
+1. Do you have a streaming service?
+1. No, but we are working on it. Keep your fingers crossed.
+1. If I stream my games do I need permission from anyone?
+1. Streaming games is permitted as long as you credit the game publishers and developers.
+1. Do you sell DLC?
+1. Yes, DLC are available for a lot of games.
+1. Do you sell OST separately?
+1. Yes, some publishers do make OST available separately.
+1. Do you sell game guides?
+1. We have partnerships with various game guide publishers.
+1. Do you sell concept art books?
+1. Some publishers do offer concept art as part of season passes as pre-order bonuses.
+1. Do the games include microtransactions?
+1. The games hosted on our servers do not include microtransactions but some publishers may include those in their games.
+1. Do you have free to play games?
+1. Some free to play games might have microtransactions.
+1. Can I play online games with players from different countries?
+1. Yes, some games host players from all over the world.
+1. Can I publish my own games?
+1. Yes, you would need to register as a developer or publisher and pay the necessary fees.
+1. Can I publish my own mods?
+1. Yes, but they won’t be supported officially.
+1. Do you store mods for download?
+1. Yes, but some mods might not be officially supported and would be marked as such.
+1. What systems do you support?
+1. Only mainstream desktop OS are supported.
+1. Do you support multiplayer on a single system such as a console?
+1. We do not support consoles but multiplayer on a single system is indeed supported.
+1. Can I buy achievements?
+1. No, achievements have to be earned.
+1. Do you have your own TCG?
+1. No, but we are working on it.
+1. Can I make backups of my games?
+1. No, that would violate the terms of service and may be considered piracy.
+1. Do my game saves get synced with your server?
+1. Yes, an online connection ensures all your game saves are synced online.
